@@ -1,6 +1,3 @@
-# ecommerce-database-system
-Integrated database design for e-commerce, social media inspiration and payment systems.
-
 # E-Commerce Database System
 
 This project is a relational database design that integrates three different systems:
